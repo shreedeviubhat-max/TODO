@@ -1,0 +1,24 @@
+{
+  "name": "first-step-for-success",
+  "version": "1.0.0",
+  "description": "First Step for Success - Personal Daily Work Journal, Interactive Calendar & Smart Reminders (MERN)",
+  "scripts": {
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "build": "npm run build --prefix client"
+  },
+  "keywords": [
+    "mern",
+    "journal",
+    "calendar",
+    "tasks",
+    "reminder",
+    "mongodb-atlas",
+    "react",
+    "express",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT"
+}
